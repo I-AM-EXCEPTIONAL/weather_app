@@ -1,0 +1,1 @@
+web: gunicorn weather_chat.wsgi --log-file -
